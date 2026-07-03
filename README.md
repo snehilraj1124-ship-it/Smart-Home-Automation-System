@@ -211,12 +211,3 @@ GitHub: https://github.com/snehilraj1124-ship-it
 
 ---
 
-## 🙏 Acknowledgement
-
-Thank you for visiting this repository.
-
-If you find this project helpful or informative, please consider giving it a ⭐ on GitHub.
-
-Your support is greatly appreciated.
-
----
